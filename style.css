@@ -1,0 +1,19 @@
+body{
+    background-color: darksalmon;
+    color: darkslateblue;
+}
+.head{
+    width: 80%;
+    font-size: 30px;
+}
+#name_of_the_object{
+    color: red;
+}
+#accuracy_of_the_machine{
+    color: red;
+}
+.camera{
+    width: 320px;
+    height: 300px;
+    border: 2px dashed darkolivegreen;
+}
